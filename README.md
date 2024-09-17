@@ -2,7 +2,23 @@
 
 **VocaScript** is a speech-to-text and translation tool that enables users to transcribe live speech or audio files into text and translate the resulting transcription into any language. This project leverages machine learning models to provide fast and accurate transcription, along with seamless language translation for diverse use cases.
 
+**Home page**
 ![View of the home page of the app](image.png)
+
+**Generating a live audio recording**
+![Generating a live audio recording](image-1.png)
+
+**Transcribing audio to text**
+![Transcribing audio to text](image-2.png)
+
+**Displaying the transcription**
+![Displaying the transcription](image-3.png)
+
+**Translating the transcription**
+![Translating the transcription](image-4.png)
+
+**Displaying the translation**
+![Displaying the translation](image-5.png)
 
 ## Features
 
