@@ -20,17 +20,17 @@
 
 ## Usage
 
-1. Live Transcription:
+1. **Live Transcription**:
 
 - Click the "Record" button to begin recording live speech from your microphone.
 - The app will display the transcribed text once the recording has been processed.
 
-2. Upload an Audio File:
+2. **Upload an Audio File**:
 
 - Select the "Upload" button to upload an audio file.
 - Once the file is processed, the transcription will be shown.
 
-3. Translate the Transcription:
+3. **Translate the Transcription**:
 
 - After transcription, select the desired language from the translation dropdown.
 - The translated text will appear below the transcription after a brief period.
