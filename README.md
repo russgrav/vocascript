@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-- **Frontend**: Built with React.
+- **Frontend**: Built with React & TailwindCSS.
 - **Machine Learning**: Utilizes OpenAI’s Whisper model for speech recognition and a translation API for multilingual support.
 - **Audio Handling**: Web Audio API for live audio processing and file uploads.
 
